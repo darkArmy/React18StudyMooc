@@ -44,8 +44,9 @@
 
 // let arr: number[] = [];
 
-// type Obj = {username: string}
-// let obj = {} as Obj;
+// 空对象
+type Obj = {username: string}
+let obj = {} as Obj;
 
 // obj.age = 20;  //error
 

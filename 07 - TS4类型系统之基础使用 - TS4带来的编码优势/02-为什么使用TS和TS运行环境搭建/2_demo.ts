@@ -20,6 +20,6 @@ let a = {
   username: 'xiaoming',
   age: 20
 }
-a.usename
+// a.usename
 
 export {};
