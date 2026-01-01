@@ -1,6 +1,6 @@
 ### 修改远程仓库地址
 ```
-git remote set-url origin http://192.168.0.23:3000/luo/React18StudyMooc.git
+git remote set-url origin git@192.168.0.23:luo/React18StudyMooc.git
 git remote set-url github https://github.com/darkArmy/React18StudyMooc.git
 ```
 拉取
